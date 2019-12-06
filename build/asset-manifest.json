@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7b28a1c1.chunk.css",
+    "main.js": "./static/js/main.2b658a84.chunk.js",
+    "main.js.map": "./static/js/main.2b658a84.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dbd7deed.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dbd7deed.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "./static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.1bc658ae.chunk.js": "./static/js/2.1bc658ae.chunk.js",
+    "static/js/2.1bc658ae.chunk.js.map": "./static/js/2.1bc658ae.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.127ca2aeb642433bbaa648fc12f56b6d.js": "./precache-manifest.127ca2aeb642433bbaa648fc12f56b6d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "./static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.7b28a1c1.chunk.css.map": "./static/css/main.7b28a1c1.chunk.css.map",
+    "static/media/App.css": "./static/media/reveal.1909326c.png",
+    "static/media/chairs.png": "./static/media/chairs.9ed9d62b.png",
+    "static/media/couch.png": "./static/media/couch.faf2a293.png",
+    "static/media/couch2.png": "./static/media/couch2.5764fce9.png",
+    "static/media/couch4.png": "./static/media/couch4.c7768de1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd7deed.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.1bc658ae.chunk.js",
+    "static/css/main.7b28a1c1.chunk.css",
+    "static/js/main.2b658a84.chunk.js"
+  ]
+}
